@@ -217,7 +217,7 @@
 #endif
 
 #ifndef configUSE_APPLICATION_TASK_TAG
-    #define configUSE_APPLICATION_TASK_TAG    0
+    #define configUSE_APPLICATION_TASK_TAG    1
 #endif
 
 #ifndef configNUM_THREAD_LOCAL_STORAGE_POINTERS
